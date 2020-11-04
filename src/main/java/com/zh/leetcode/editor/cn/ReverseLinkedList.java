@@ -32,7 +32,7 @@ public class ReverseLinkedList{
  * }
  */
 class Solution {
-    public ListNode reverseList(ListNode head) {
+    /*public ListNode reverseList(ListNode head) {
         if(head == null){
             return head;
         }
@@ -51,6 +51,22 @@ class Solution {
             cur = cur.next;
         }
         return listNode;
+    }*/
+
+
+    public ListNode reverseList(ListNode head) {
+        //上面是栈 这次试试迭代
+        if(head == null){
+            return head;
+        }
+        ListNode pre = null;
+        while(head!=null){
+             ListNode tmp = head.next;
+             head.next = pre;
+             pre = head;
+             head = tmp;
+        }
+        return pre;
     }
 }
 //leetcode submit region end(Prohibit modification and deletion)
