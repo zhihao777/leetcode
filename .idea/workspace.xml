@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0663a6dd-2545-41fd-bf9c-a58157825aa6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zh/leetcode/editor/cn/DiYiGeZhiChuXianYiCiDeZiFuLcof.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zh/leetcode/editor/cn/DiYiGeZhiChuXianYiCiDeZiFuLcof.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/zh/leetcode/editor/cn/all.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zh/leetcode/editor/cn/all.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/zh/leetcode/editor/cn/translation.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zh/leetcode/editor/cn/translation.json" afterDir="false" />
     </list>
@@ -33,10 +34,28 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/zh/leetcode/editor/cn/PingHengErChaShuLcof.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/zh/leetcode/editor/cn/YuanQuanZhongZuiHouShengXiaDeShuZiLcof.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="73" column="20" lean-forward="true" selection-start-line="73" selection-start-column="20" selection-end-line="73" selection-end-column="20" />
+            <state relative-caret-position="500">
+              <caret line="49" column="64" selection-start-line="49" selection-start-column="64" selection-end-line="49" selection-end-column="64" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/zh/leetcode/editor/cn/IntersectionOfTwoArrays.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="25">
+              <caret line="1" column="2" lean-forward="true" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/zh/leetcode/editor/cn/IntersectionOfTwoArraysIi.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="875">
+              <caret line="71" column="23" selection-start-line="71" selection-start-column="17" selection-end-line="71" selection-end-column="23" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -44,65 +63,51 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/zh/leetcode/editor/cn/HeWeiSdeLianXuZhengShuXuLieLcof.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="81">
-              <caret line="58" column="8" selection-start-line="58" selection-start-column="8" selection-end-line="76" selection-end-column="45" />
-              <folding>
-                <element signature="e#0#735#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/zh/leetcode/editor/cn/doc/jian-zhi-offer-57-ii-he-wei-s-de-lian-xu-t85z.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SECOND">
-              <first_editor />
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/zh/leetcode/editor/cn/doc/mian-shi-ti-54-er-cha-sou-suo-shu-de-di-k-da-jie-d.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SECOND">
-              <first_editor />
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/zh/TreeNode.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/zh/leetcode/editor/cn/doc/mian-shi-ti-53-i-zai-pai-xu-shu-zu-zhong-cha-zha-5.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SECOND">
-              <first_editor />
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/zh/leetcode/editor/cn/doc/jian-zhi-offer-52-liang-ge-lian-biao-de-gcruu.md">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/zh/leetcode/editor/cn/doc/liang-ge-shu-zu-de-jiao-ji-ii-by-leetcode-solution.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="300">
-                <caret line="12" selection-start-line="12" selection-end-line="12" />
-              </first_editor>
+              <first_editor />
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/zh/leetcode/editor/cn/doc/350-liang-ge-shu-zu-de-jiao-ji-ii-hashma-xkc4.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/zh/leetcode/editor/cn/doc/liang-ge-shu-zu-de-jiao-ji-by-leetcode-solution.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/zh/leetcode/editor/cn/doc/349-liang-ge-shu-zu-de-jiao-ji-hashqu-zh-a27d.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_92/src.zip!/java/util/Arrays.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="89900">
+              <caret line="3667" column="5" selection-start-line="3667" selection-start-column="5" selection-end-line="3667" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -167,13 +172,19 @@
         <option value="$PROJECT_DIR$/src/main/java/com/zh/leetcode/editor/cn/ZuiXiaoDeKgeShuLcof.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/zh/leetcode/editor/cn/doc/cong-bao-li-po-jie-dao-dong-tai-gui-hua-yfvkp.md" />
         <option value="$PROJECT_DIR$/src/main/java/com/zh/leetcode/editor/cn/LianXuZiShuZuDeZuiDaHeLcof.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zh/leetcode/editor/cn/DiYiGeZhiChuXianYiCiDeZiFuLcof.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/zh/leetcode/editor/cn/LiangGeLianBiaoDeDiYiGeGongGongJieDianLcof.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/zh/leetcode/editor/cn/ZaiPaiXuShuZuZhongChaZhaoShuZiLcof.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/zh/leetcode/editor/cn/ErChaSouSuoShuDeDiKdaJieDianLcof.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/zh/leetcode/editor/cn/ErChaShuDeShenDuLcof.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/zh/leetcode/editor/cn/PingHengErChaShuLcof.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/zh/leetcode/editor/cn/HeWeiSdeLianXuZhengShuXuLieLcof.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zh/leetcode/editor/cn/DiYiGeZhiChuXianYiCiDeZiFuLcof.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zh/leetcode/editor/cn/FanZhuanDanCiShunXuLcof.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zh/leetcode/editor/cn/ZuoXuanZhuanZiFuChuanLcof.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zh/leetcode/editor/cn/BuKePaiZhongDeShunZiLcof.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zh/leetcode/editor/cn/YuanQuanZhongZuiHouShengXiaDeShuZiLcof.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zh/leetcode/editor/cn/IntersectionOfTwoArraysIi.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zh/leetcode/editor/cn/IntersectionOfTwoArrays.java" />
       </list>
     </option>
   </component>
@@ -197,8 +208,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="-9" />
-    <option name="y" value="-9" />
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
     <option name="width" value="1915" />
     <option name="height" value="1050" />
   </component>
@@ -210,7 +221,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -258,6 +268,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -271,10 +282,10 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="leetcode.id" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -288,7 +299,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.XuanZhuanShuZuDeZuiXiaoShuZiLcof">
+  <component name="RunManager" selected="Application.FanZhuanDanCiShunXuLcof">
+    <configuration name="FanZhuanDanCiShunXuLcof" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zh.leetcode.editor.cn.FanZhuanDanCiShunXuLcof" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zh.leetcode.editor.cn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MoveZeroes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.zh.leetcode.editor.cn.MoveZeroes" />
       <module name="leetcode" />
@@ -330,6 +354,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FanZhuanDanCiShunXuLcof" />
         <item itemvalue="Application.XuanZhuanShuZuDeZuiXiaoShuZiLcof" />
         <item itemvalue="Application.mainClass" />
         <item itemvalue="Application.MoveZeroes" />
@@ -377,12 +402,22 @@
       <workItem from="1621478400682" duration="5644000" />
       <workItem from="1621558636346" duration="599000" />
       <workItem from="1621819055059" duration="8459000" />
-      <workItem from="1621905081181" duration="7599000" />
+      <workItem from="1621905081181" duration="7974000" />
+      <workItem from="1622452455422" duration="2908000" />
+      <workItem from="1622516921636" duration="3446000" />
+      <workItem from="1622599550698" duration="1904000" />
+      <workItem from="1622772000521" duration="5822000" />
+      <workItem from="1623726250913" duration="800000" />
+      <workItem from="1623810657108" duration="4495000" />
+      <workItem from="1623830248448" duration="838000" />
+      <workItem from="1623893604496" duration="226000" />
+      <workItem from="1626342360664" duration="2770000" />
+      <workItem from="1626397593141" duration="1180000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="121692000" />
+    <option name="totallyTimeSpent" value="146456000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -397,7 +432,7 @@
     <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4957507" weight="0.20657277" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4957507" weight="0.21730383" />
       <window_info id="Structure" order="1" sideWeight="0.5042493" side_tool="true" weight="0.26559356" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -407,16 +442,16 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.27903682" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49966466" weight="0.34560907" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3286119" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3286119" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49966466" weight="0.3286119" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3286119" />
-      <window_info active="true" anchor="bottom" id="Event Log" order="11" side_tool="true" visible="true" weight="0.25637394" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.3286119" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49899396" weight="0.3286119" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50033534" side_tool="true" weight="0.27903682" />
+      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.4976526" weight="0.3286119" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -426,7 +461,7 @@
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Database" order="8" weight="0.32997987" />
-      <window_info anchor="right" id="leetcode" order="9" sideWeight="0.5023585" side_tool="true" visible="true" weight="0.22535211" />
+      <window_info active="true" anchor="right" id="leetcode" order="9" sideWeight="0.5023585" side_tool="true" visible="true" weight="0.2045607" />
     </layout>
     <layout-to-restore>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4957507" visible="true" weight="0.20657277" />
@@ -505,118 +540,6 @@
     </option>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zh/leetcode/editor/cn/CrackingTheSafe.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zh/leetcode/editor/cn/MoveZeroes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="625">
-          <caret line="39" column="34" selection-start-line="39" selection-start-column="34" selection-end-line="39" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_92/src.zip!/java/util/Map.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5325">
-          <caret line="239" column="6" selection-start-line="239" selection-start-column="6" selection-end-line="239" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zh/leetcode/editor/cn/doc/zeng-jian-zi-fu-chuan-pi-pei-by-leetcode.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SECOND">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zh/ListNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="12" column="11" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zh/leetcode/editor/cn/doc/mian-shi-ti-07-zhong-jian-er-cha-shu-by-leetcode-s.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SECOND">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zh/leetcode/editor/cn/doc/java-di-gui-shuang-zhi-zhen-jian-dan-gao-xiao-jie-.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SECOND">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zh/leetcode/editor/cn/doc/mian-shi-ti-03-shu-zu-zhong-zhong-fu-de-shu-zi-b-4.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SECOND">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_92/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="2237" column="45" selection-start-line="2237" selection-start-column="39" selection-end-line="2237" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zh/leetcode/editor/cn/doc/0mscong-wei-dao-tou-da-yin-lian-biao-by-1234-52.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SECOND">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zh/leetcode/editor/cn/ReverseLinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1000">
-          <caret line="54" selection-start-line="54" selection-end-line="54" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zh/leetcode/editor/cn/CongWeiDaoTouDaYinLianBiaoLcof.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="43" column="33" selection-start-line="43" selection-start-column="33" selection-end-line="43" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#352#353#0" expanded="true" />
-            <element signature="e#436#437#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zh/leetcode/editor/cn/YongLiangGeZhanShiXianDuiLieLcof.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zh/leetcode/editor/cn/CQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="149">
-          <caret line="34" column="5" lean-forward="true" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zh/leetcode/editor/cn/translation.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zh/leetcode/editor/cn/all.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zh/leetcode/editor/cn/XuanZhuanShuZuDeZuiXiaoShuZiLcof.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="33" selection-start-line="33" selection-end-line="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/zh/leetcode/editor/cn/WordPattern.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="625">
@@ -787,16 +710,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zh/leetcode/editor/cn/DiYiGeZhiChuXianYiCiDeZiFuLcof.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="34" column="41" selection-start-line="34" selection-start-column="41" selection-end-line="34" selection-end-column="41" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/zh/leetcode/editor/cn/LiangGeLianBiaoDeDiYiGeGongGongJieDianLcof.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="900">
@@ -835,6 +748,64 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zh/leetcode/editor/cn/doc/mian-shi-ti-57-ii-he-wei-sde-lian-xu-zheng-shu-x-2.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SECOND">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zh/leetcode/editor/cn/PingHengErChaShuLcof.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="625">
+          <caret line="73" column="20" selection-start-line="73" selection-start-column="20" selection-end-line="73" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zh/leetcode/editor/cn/doc/jian-zhi-offer-57-ii-he-wei-s-de-lian-xu-t85z.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SECOND">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_92/src.zip!/java/lang/StringBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="242" column="25" selection-start-line="242" selection-start-column="25" selection-end-line="242" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zh/leetcode/editor/cn/HeWeiSdeLianXuZhengShuXuLieLcof.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1225">
+          <caret line="78" column="1" selection-start-line="78" selection-start-column="1" selection-end-line="78" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zh/leetcode/editor/cn/doc/mian-shi-ti-58-i-fan-zhuan-dan-ci-shun-xu-shuang-z.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SECOND">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zh/leetcode/editor/cn/DiYiGeZhiChuXianYiCiDeZiFuLcof.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="34" column="29" selection-start-line="34" selection-start-column="29" selection-end-line="34" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/zh/leetcode/editor/cn/doc/mian-shi-ti-54-er-cha-sou-suo-shu-de-di-k-da-jie-d.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SECOND">
@@ -868,6 +839,124 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zh/leetcode/editor/cn/FanZhuanDanCiShunXuLcof.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="775">
+          <caret line="71" column="1" selection-start-line="71" selection-start-column="1" selection-end-line="71" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zh/leetcode/editor/cn/ZuoXuanZhuanZiFuChuanLcof.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="40" column="5" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zh/leetcode/editor/cn/doc/javajie-jue-yue-se-fu-huan-wen-ti-gao-su-ni-wei-sh.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="900">
+            <caret line="39" column="5" lean-forward="true" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zh/leetcode/editor/cn/BuKePaiZhongDeShunZiLcof.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="900">
+          <caret line="62" column="5" selection-start-line="62" selection-start-column="5" selection-end-line="62" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zh/leetcode/editor/cn/doc/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-by-lee.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SECOND">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zh/leetcode/editor/cn/doc/mian-shi-ti-61-bu-ke-pai-zhong-de-shun-zi-ji-he-se.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SECOND">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zh/leetcode/editor/cn/doc/mian-shi-ti-58-ii-zuo-xuan-zhuan-zi-fu-chuan-qie-p.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SECOND">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_92/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4175">
+          <caret line="206" column="34" selection-start-line="206" selection-start-column="34" selection-end-line="206" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zh/leetcode/editor/cn/YuanQuanZhongZuiHouShengXiaDeShuZiLcof.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="49" column="64" selection-start-line="49" selection-start-column="64" selection-end-line="49" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zh/leetcode/editor/cn/IntersectionOfTwoArraysIi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="875">
+          <caret line="71" column="23" selection-start-line="71" selection-start-column="17" selection-end-line="71" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zh/leetcode/editor/cn/doc/liang-ge-shu-zu-de-jiao-ji-ii-by-leetcode-solution.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zh/leetcode/editor/cn/doc/350-liang-ge-shu-zu-de-jiao-ji-ii-hashma-xkc4.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zh/leetcode/editor/cn/doc/liang-ge-shu-zu-de-jiao-ji-by-leetcode-solution.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zh/leetcode/editor/cn/doc/349-liang-ge-shu-zu-de-jiao-ji-hashqu-zh-a27d.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_92/src.zip!/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="89900">
+          <caret line="3667" column="5" selection-start-line="3667" selection-start-column="5" selection-end-line="3667" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/zh/leetcode/editor/cn/doc/shuang-zhi-zhen-by-0sw0cycbwe-xz7v.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -885,49 +974,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zh/leetcode/editor/cn/PingHengErChaShuLcof.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zh/leetcode/editor/cn/IntersectionOfTwoArrays.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="73" column="20" lean-forward="true" selection-start-line="73" selection-start-column="20" selection-end-line="73" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zh/leetcode/editor/cn/doc/mian-shi-ti-57-ii-he-wei-sde-lian-xu-zheng-shu-x-2.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SECOND">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zh/leetcode/editor/cn/FanZhuanDanCiShunXuLcof.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1097">
-          <caret line="44" column="13" selection-start-line="44" selection-start-column="13" selection-end-line="44" selection-end-column="13" />
-          <folding>
-            <element signature="e#0#1071#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zh/leetcode/editor/cn/doc/jian-zhi-offer-57-ii-he-wei-s-de-lian-xu-t85z.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SECOND">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zh/leetcode/editor/cn/HeWeiSdeLianXuZhengShuXuLieLcof.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="58" column="8" selection-start-line="58" selection-start-column="8" selection-end-line="76" selection-end-column="45" />
-          <folding>
-            <element signature="e#0#735#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="25">
+          <caret line="1" column="2" lean-forward="true" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="2" />
         </state>
       </provider>
     </entry>
@@ -948,6 +998,7 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
+          <last-edited>No facets are configured</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -970,6 +1021,7 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
+          <last-edited>1.8</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -986,7 +1038,6 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>

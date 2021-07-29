@@ -32,7 +32,7 @@ public class DiYiGeZhiChuXianYiCiDeZiFuLcof{
 class Solution {
     public char firstUniqChar(String s) {
         LinkedHashMap<Character, Boolean> linkedHashMap = new LinkedHashMap<>();
-        int len = s.length();两个链表的第一个公共节点
+        int len = s.length();
         for(int i = 0;i<len;i++){
             char c = s.charAt(i);
             linkedHashMap.put(c,!linkedHashMap.containsKey(c));
